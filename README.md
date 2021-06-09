@@ -9,7 +9,7 @@ request a token (no scopes needed).
 ## USAGE
 ```
 export API_KEY="Your spotify api key"
-deno run --allow-env --allow-net profilter.ts [args...] username
+deno run --allow-env --allow-net profiler.ts [args...] username
 modes:
  -a
  --albums                 View the user's top albums

@@ -7,7 +7,7 @@
 const API = 'https://api.spotify.com/v1/';
 const USAGE = 
 'Lookup the top albums or arists in a spotify user\'s public playlists\n\
-deno run --allow-env --allow-net profilter.ts [args...] username';
+deno run --allow-env --allow-net profiler.ts [args...] username';
 const HELP = 
 'modes:\n\
  -a\n\
